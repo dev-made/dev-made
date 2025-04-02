@@ -96,7 +96,7 @@
 
 ### Testing
 <p>
-  <img src="https://img.shields.io/badge/Artillery-0170FE?style=for-the-badge&logo=Artillery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artillery-000000?style=for-the-badge&logo=Artillery&logoColor=white"/>
   <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
